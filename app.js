@@ -20,6 +20,9 @@
         Para realizar o sincronismo do prisma com o banco de dados, devemos executar o seguinte comando:
                 npx prisma migrate dev     
             
+        *********** Para o resetar o prisma devemos realizar o seguinte comando:
+                npm prisma generate
+
         *********** Para instalar o jest para realizar o reste de software devemos realizar o seguinte comando:
                 npm install --save-dev jest
 
